@@ -25,18 +25,16 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tektur&pause=1&color=FFFFFF&vCenter=true&repeat=false&width=435&height=20&lines=%F0%9F%97%84%EF%B8%8F+Database+%3A" alt="Typing SVG" /></a>
 <p>
-  <img src="SQL.png" width="40" title="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB (Coming Soon)" style="opacity: 0.5"/>
-</p>
+  <img src="MYSQL.svg" width="60" height="50" title="MySQL"/>
+  <img src="mongodb.svg" width="45"  title="MongoDB (Coming Soon)"/>
+  </p>
 
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tektur&pause=1&color=FFFFFF&vCenter=true&repeat=false&width=435&height=20&lines=%F0%9F%8C%90+Virtualization+%26+Networking+%3A" alt="Typing SVG" /></a>
 <p>
-  <img src="vmware-esxi.png" width="40" title="VMware ESXi"/>
-  <img src="vcenter.png" width="40" title="vCenter"/>
-  <img src="networkplus.png" width="40" title="Network+"/>
+  <img src="vmware.png" width="120" title="VMware ESXi"/>
+  <img src="NetworkPlus.png" width="50" title="Network+"/>
 </p>
 
 
@@ -64,8 +62,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tektur&pause=1&color=FFFFFF&vCenter=true&repeat=false&width=435&height=20&lines=%F0%9F%A7%A9+Other+%3A" alt="Typing SVG" /></a>
 <p>
-  <img src="asterisk.png" width="40" title="Asterisk"/>
-  <img src="n8n.png" width="40" title="n8n"/>
+  <img src="Asterisk.png" width="40" title="Asterisk"/>
+  <img src="N8n.png" width="100" title="n8n"/>
 </p>
 
 
