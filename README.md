@@ -16,6 +16,14 @@
 - 💬 Focused on Django to level up my backend skills and become a professional full-stack developer.
 
 ---
+
+<div style="background-color: black; color: white; padding: 20px;">
+  <!-- همه‌ی محتوای شما اینجا قرار می‌گیرد -->
+  <h1>Hello, this is dark background!</h1>
+  <p>Everything inside this div will have black background and white text.</p>
+</div>
+
+
 <!--My Skills-->
 <div style="background-color: black; color: white; padding: 20px;">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tektur&pause=1&color=FFFFFF&vCenter=true&repeat=false&width=150&height=50&lines=My+Skills+%3A" alt="Typing SVG" /></a>
