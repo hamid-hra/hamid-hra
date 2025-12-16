@@ -1,3 +1,4 @@
+<div style="background-color: black; color: white; padding: 20px;">
 <!-- Header -->
 <div align="center" >
   <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Tektur&weight=600&size=30&duration=2000&pause=2000&color=6F6FF7&center=true&vCenter=true&multiline=true&width=500&height=125&lines=Hi+EveryBody+;I'm+Hamid+Reza+Atari;Web+developer+%26+Linux+user...." alt="Typing SVG" /></a>
@@ -133,4 +134,4 @@
   <br/>
   <img style="height:220px ; width: 400px" src="https://github-readme-streak-stats.herokuapp.com?user=hamid-hra&theme=android-dark" alt="GitHub Streak" />
 </div>
-
+</div>
