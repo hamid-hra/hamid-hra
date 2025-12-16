@@ -1,7 +1,5 @@
-![Python](https://img.shields.io/badge/-Python-14354C?logo=python&logoColor=white&style=flat-dark)
-
 <!-- Header -->
-<div align="center">
+<div align="center" >
   <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Tektur&weight=600&size=30&duration=2000&pause=2000&color=6F6FF7&center=true&vCenter=true&multiline=true&width=500&height=125&lines=Hi+EveryBody+;I'm+Hamid+Reza+Atari;Web+developer+%26+Linux+user...." alt="Typing SVG" /></a>
 </div>
 
@@ -19,7 +17,7 @@
 
 ---
 <!--My Skills-->
-<div>
+<div style="background-color: black; color: white; padding: 20px;">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tektur&pause=1&color=FFFFFF&vCenter=true&repeat=false&width=150&height=50&lines=My+Skills+%3A" alt="Typing SVG" /></a>
 </div>
 
