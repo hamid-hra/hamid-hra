@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+
+  <!-- Quirky, abstract A -->
+  <path d="
+    M100 15
+    L20 160
+    Q50 110, 80 130
+    L100 70
+    L120 130
+    Q150 110, 180 160
+    L100 15
+    Z
+  " fill="rgb(110, 110, 247)"></path>
+
+  <!-- Optional accent lines to make it more dynamic -->
+</svg>
